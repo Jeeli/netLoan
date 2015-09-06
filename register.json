@@ -1,0 +1,27 @@
+[
+{
+ "name":"myTxt_userName",
+ "image":"nil",
+ "text":"用户",
+ "IsSecureText":"NO",
+ "Placeholder":"请输入用户名",
+},
+{
+ "name":"myTxt_password",
+ "image":"nil",
+ "text":"密码",
+ "IsSecureText":"YES",
+ "Placeholder":"请输入密码",
+ },
+ {
+ "name":"myTxt_affirmPassword",
+ "image":"nil",
+ "text":"确认密码",
+ "IsSecureText":"YES",
+ "Placeholder":"请输入确认密码",
+ },
+ {
+   "name":"bt_register",
+   "text":"注册",
+ }
+]

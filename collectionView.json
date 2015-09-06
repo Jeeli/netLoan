@@ -1,0 +1,50 @@
+ [
+  {
+  "imageName" :"3.png",
+  "text":"会员中心",
+  },
+  {
+  "imageName" :"2.png",
+  "text":"我要投标",
+  },
+  {
+  "imageName" :"4.png",
+  "text":"资金详情",
+  },
+  {
+  "imageName" :"6.png",
+  "text":"提现",
+  },
+  {
+  "imageName" :"7.png",
+  "text":"新手上路",
+  },
+  {
+  "imageName" :"8.png",
+  "text":"充值记录",
+  },
+  {
+  "imageName" :"9.png",
+  "text":"提现记录",
+  },
+  {
+  "imageName" :"10.png",
+  "text":"最新公告",
+  },
+  {
+  "imageName" :"11.png",
+  "text":"关于我们",
+  },
+  {
+  "imageName" :"12.png",
+  "text":"登录",
+  },
+  {
+  "imageName" :"1.png",
+  "text":"设置",
+  },
+  {
+  "imageName" :"5.png",
+  "text":"注销",
+  },
+  ]
